@@ -12,7 +12,7 @@
     align-items: center;
     height: 100vh;
     border: 2px solid red;
-    background-color: rgb(89, 84, 89);
+   
 }
 .card{
 display: none;
@@ -21,7 +21,7 @@ text-align: center;
 padding: 2rem;
 border-radius: 2rem;
   
-    border: 2px solid green;
+   
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 .profile-image{
